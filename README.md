@@ -10,20 +10,24 @@ Seorang Business Intelligence Analyst di Bank Muamalat harus bisa memahami data 
 5. Memberikan rekomendasi untuk perusahaan
 
 ## 1. Mengidentifikasi Primary Key pada dataset
+Link Dataset: [Excel](https://github.com/baramizzo58/VIX-Bank-Muamalat-Business-Intelligence-Analyst/blob/main/dataset_task%2B5%20-%20Before%20Processing.xlsx)
 1. Tabel Customer: Kolom `CustomerID`
 2. Tabel Product: Kolom `ProdNumber`
 3. Tabel Orders: Kolom `OrderID`
 4. Tabel ProductCategory: Kolom `CategoryID`
 
 ## 2. Menentukan relationship seluruh tabel dalam dataset
-Entity Relationship Diagram
+Entity Relationship Diagram (ERD)
+Link ERD: [Access](https://github.com/baramizzo58/VIX-Bank-Muamalat-Business-Intelligence-Analyst/blob/main/task_5_access.accdb)
 ![image](https://github.com/baramizzo58/VIX-Bank-Muamalat-Business-Intelligence-Analyst/assets/119744134/c5097325-d087-4675-a42e-aa9033893dfe)
 
 ## 3. Membuat table master dari dataset
-SQL Query
+### SQL Query
+Link Query: [SQL](https://github.com/baramizzo58/VIX-Bank-Muamalat-Business-Intelligence-Analyst/blob/main/task_5_query.sql)
 ![image](https://github.com/baramizzo58/VIX-Bank-Muamalat-Business-Intelligence-Analyst/assets/119744134/e42b55ef-6df8-4949-bb9a-f1cbf61e4ae7)
 
 Dataset Query Result
+Link Dataset: [Excel](https://github.com/baramizzo58/VIX-Bank-Muamalat-Business-Intelligence-Analyst/blob/main/dataset_task%2B5%20-%20After%20Processing.xlsx)
 ![image](https://github.com/baramizzo58/VIX-Bank-Muamalat-Business-Intelligence-Analyst/assets/119744134/c0eb25df-b26e-41fc-b2eb-05a15287a300)
 
 ## 4. Memvisualisasikan dashboard untuk menampilkan insight
