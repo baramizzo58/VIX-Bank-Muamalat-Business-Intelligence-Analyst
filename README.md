@@ -27,6 +27,12 @@ Dataset Query Result
 ![image](https://github.com/baramizzo58/VIX-Bank-Muamalat-Business-Intelligence-Analyst/assets/119744134/c0eb25df-b26e-41fc-b2eb-05a15287a300)
 
 ## 4. Memvisualisasikan dashboard untuk menampilkan insight
+![image](https://github.com/baramizzo58/VIX-Bank-Muamalat-Business-Intelligence-Analyst/assets/119744134/11d60094-c079-4cb4-85f0-6eae150dbbdf)
+![image](https://github.com/baramizzo58/VIX-Bank-Muamalat-Business-Intelligence-Analyst/assets/119744134/16075933-ec68-429e-aa13-68ed0597430a)
+![image](https://github.com/baramizzo58/VIX-Bank-Muamalat-Business-Intelligence-Analyst/assets/119744134/80113324-626e-4770-bfda-104d5c1c9ba2)
+![image](https://github.com/baramizzo58/VIX-Bank-Muamalat-Business-Intelligence-Analyst/assets/119744134/a4fbf370-82f8-4ae7-8a74-f417f5e700f7)
+
+
 
 
 ## 5. Memberikan rekomendasi untuk perusahaan
